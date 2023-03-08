@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "590592423884",
+    "project_id": "wecare-a1429",
+    "storage_bucket": "wecare-a1429.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590592423884:android:efcabd453dc21c6ebe4f69",
+        "android_client_info": {
+          "package_name": "id.eve.wecare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590592423884-oakemoss7ugg2i6hsmcrlj8kj42f2p9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.eve.wecare",
+            "certificate_hash": "e0c25fcf961da763dacc3467415c77953790897f"
+          }
+        },
+        {
+          "client_id": "590592423884-uku5hk08243alg6e77m1c5da2ihgdinh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5D8Wcg67RP7bbxeCRu5ueW073t5Gy6Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590592423884-uku5hk08243alg6e77m1c5da2ihgdinh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
